@@ -1,0 +1,52 @@
+#Wadah{
+	position:relative;
+	border: thick double #000000;
+	margin: 10px auto;
+	width: 730px; 
+	padding: 10px;
+    margin-top: 120px;
+    background-color: #A09CF8;
+	height: 480;
+}
+
+.tab_link { 
+    float:left; 
+    border:1px solid black; 
+    padding:5px; 
+    margin-right:10px ; 
+    color:white;
+    text-decoration:none; 
+    font-variant:small-caps;
+}
+    
+.tab_link_selected{ 
+	background-color: #FBA900;
+    color: #000000;
+}
+
+.tab_text{ 
+    display: none;
+    border:1px solid black;
+    padding:5px; 
+    color:black;
+    height:90%;
+    background-color: #FFCC66;
+}
+    
+.clear {
+	clear: both;
+}
+
+.textmce {
+width : 10;
+heigth : 50;
+}
+
+.art{
+	position:relative;
+	margin: 5px;
+	width: 700px; 
+	padding: 5px;
+    margin-top: 30px;
+}
+.
